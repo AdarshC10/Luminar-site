@@ -1,0 +1,191 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+   display: flex;
+    background-color: #ffffff;
+    
+  justify-content: center;
+    
+   
+   
+}
+.header{
+    display: flex;
+    margin-left: 100px;
+   
+    
+}
+.header ul{
+    display: flex;
+    margin-left: 80px;
+    
+}
+.header ul li{
+   list-style: none;
+   padding: 20px;
+   padding-top: 70px;
+   
+   
+   
+}
+.header ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.header img{
+    margin-left: 30px;
+}
+.contact-us{
+    color: rgb(67, 10, 121);
+    font-size: 60px;
+}  
+/* .b1{
+    padding: 20px;
+}
+.p1{
+    margin-left: 90px;
+} */
+.row{
+    font-size: 15px;
+    
+}
+.col-6{
+    margin-left: -1px;
+   padding-top: 50px;
+    
+}
+.contact-us{
+    margin-top: 40px;
+}
+.flex{
+    display: flex;
+    margin: 20px;
+    
+}
+.flex img{
+    /* border: 3px solid rgb(210, 216, 235);
+    border-radius: 30px ; */
+    width: 45px;
+}
+.flex p{
+    margin-left: 20px;
+}
+.collii{
+    padding-top: 50px;
+}
+.collii input{
+    padding-left: 200px;
+    padding: 20px;
+}
+.collii textarea{
+    padding: 20px;
+}
+.collii select{
+    padding: 20px;
+}
+.button{
+   
+    border: 2px solid  rgb(126, 3, 138);
+    border-radius: 20px;
+    height: 40px;
+    width: 159px;
+    color: rgb(126, 3, 138);
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 8px;
+    margin-left: 900px;
+    
+
+    
+}
+.button:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
+/* .col-4{
+    text-align: justify;
+    width: 30px;
+    font-size: 14px;
+  
+   
+}   */
+/* .cont  {
+  padding-left: 300px;
+ margin-left: 20px;
+} */
+span{
+    color: rgb(66, 5, 122);
+   
+}
+.Connect-with-us{
+    margin: 105px;
+}
+.col-12{
+   background-image: url(./pen.png);
+    width: 100%;
+    height: 600px;
+    background-position: auto;
+   background-position-x: center;
+}
+.join-now-heading{
+    color: white;
+    padding-top: 120px;
+    font-size: 40px;
+    text-align: center;
+}
+.join-now-callus{
+    color: rgb(199, 97, 14);
+}
+.join-now-button{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 12px;
+    
+
+}
+.footer{
+    display: flex;
+    padding: 30px;
+   
+    font-size: 14px;
+    
+}
+.items{
+    display: flex;
+    padding: 50px;
+    margin: 20px;
+    
+    
+}
+.imgs{
+    margin-left: 30px;
+}
+.courses{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.contactuss{
+    padding-left: 50px;
+}
+.pt{
+    padding-top: 30px;
+   
+   
+}
+.USEFUL-LINKS a{
+    text-decoration: none;
+    color: gray;
+}
+.spann{
+    color: gray;
+    margin-top: 30px;
+}
+
+
+
